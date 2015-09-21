@@ -1,5 +1,5 @@
 ### SparkGapMidiPlayer
-#### Play MIDI files through high voltage sparks
+##### _Play MIDI files through high voltage sparks_
 
 ##### MIDI File Converter
 * http://midifile.sapp.org/
