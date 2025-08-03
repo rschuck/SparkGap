@@ -10,6 +10,7 @@
 # Ignore temporary files
 *.tmp
 temp/
+History/
 
 # Ignore log files
 *.log
