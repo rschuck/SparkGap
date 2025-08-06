@@ -9,3 +9,4 @@ OptoIsolator|LTV-356T-B|[LTV-356T-B](https://www.digikey.com/en/products/detail/
 Feather STM32F405 Express|4382||https://www.adafruit.com/product/4382
 Circuit Breaker|CBW58-ES-30A-5C|[2298-CBW58-ES-30A-5C-ND](https://www.digikey.com/en/products/detail/optifuse/CBW58-ES-30A-5C/25576137)|https://www.optifuse.com/optifuse_ecommerce_tools/datasheets/CBW58.pdf
 Gate Driver|UCC27321DR|[296-48798-1-ND](https://www.digikey.com/en/products/detail/texas-instruments/UCC27321DR/1911354)
+12V Switcher|R-78C12-1.0|[945-1392-5-ND](https://www.digikey.com/en/products/detail/recom-power/R-78C12-1-0/2652145)
